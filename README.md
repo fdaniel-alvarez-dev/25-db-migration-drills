@@ -1,4 +1,4 @@
-# 25-yugabyte-staff-site-reliability-engineer
+# 25-db-migration-drills
 
 A production-minded Database Reliability Engineering toolkit: HA lab, backup/PITR drills, and zero-downtime migration playbooks.
 
